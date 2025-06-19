@@ -2,8 +2,7 @@
 
 <h1>Hi, I'm Savinda ! <br/><a Data Science and Machine Learning Enthusiastic </a>, <a Data Science and Machine Learning Enthusiastic </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-Hi, I'm Dhanushka
-Data Science and Machine Learning Enthusiastic | Data Analytics | Software Developer | Application Integrator
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
