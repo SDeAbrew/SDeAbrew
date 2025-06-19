@@ -1,6 +1,6 @@
 
 
-<h1>Hi, I'm Savinda ! <br/> Data Science and Machine Learning Enthusiastic , Data Science and Machine Learning Enthusiastic  </h1>
+<h1>Hi, I'm Savinda ! <br/> Data Analyst | Data Scientist | Application Support Analyst </h1>
 
 
 
